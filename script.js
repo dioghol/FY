@@ -4,7 +4,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Sabia que tu ia aceitar, sou muito irresistível né? 😏";
+  question.innerHTML = "S2";
 });
 
 noBtn.addEventListener("mouseover", () => {
